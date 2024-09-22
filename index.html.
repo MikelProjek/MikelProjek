@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mikel Projek</title>
+</head>
+<body>
+    <h1>Selamat datang di Mikel Projek</h1>
+    <nav>
+        <ul>
+            <li><a href="#garansi">Data Garansi</a></li>
+            <li><a href="#antrian">Data Antrian</a></li>
+        </ul>
+    </nav>
+
+    <section id="garansi">
+        <h2>Data Garansi</h2>
+        <p>Ini adalah data garansi customer.</p>
+    </section>
+
+    <section id="antrian">
+        <h2>Data Antrian</h2>
+        <p>Ini adalah data antrian.</p>
+    </section>
+</body>
+</html>
